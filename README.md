@@ -24,8 +24,8 @@ compiled and maintained by [bjj.space](https://bjj.space), the open BJJ communit
 
 | File | Rows | What |
 |---|---|---|
-| `data/events.csv` | 64 | ADCC World Championships (1998–2026), ADCC Trials and continental championships, numbered Polaris cards, UFC BJJ cards |
-| `data/bouts.csv` | 4,370 | one row per match: fighters, winner, method, weight class or division, round |
+| `data/events.csv` | 76 | ADCC World Championships (1998–2026), ADCC Trials and continental championships, numbered Polaris cards (including Squads and Grand Prix), UFC BJJ cards |
+| `data/bouts.csv` | 4,675 | one row per match: fighters, winner, method, weight class or division, round |
 
 Every row links to its page on bjj.space: `event_url` on every row, plus `fighter_1_url` and
 `fighter_2_url` where the athlete has a public profile. The pages hold brackets, records,
